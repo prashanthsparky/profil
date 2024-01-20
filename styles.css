@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,500;0,700;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Genos:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,500&display=swap');
+
+hr{
+  border: dotted;
+    border: rgb(90, 108, 54) dotted 2px;
+  color: white;
+}
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  background-color: AAD7D9;
+  margin-bottom: 0;
+  margin-top: 0;
+  color: black;
+
+}
+p{
+  font-family: 'Genos', sans-serif;
+  font-size: 30px;
+  background-color: AAD7D9;
+  margin-top: 0;
+  color: black;
+
+}
+body{
+  background-color: 900px;;
+  margin: 0;
+  text-align: center;
+  font-family: 'Genos', sans-serif;
+  font-size: 2em;
+  background-color: ;
+  background-image: url('https://res.cloudinary.com/nihars3/image/upload/v1696232927/photo-1619429858348-2d5ad1547e6c_nnvynb.jpg');
+}
+.home {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 85vh;
+
+}
+.home-left {
+    width: 50vw;
+    text-align: right;
+    padding-left: 200px;
+}
+.home-right {
+    width: 50vw;
+    padding-left: 200px;
+    margin-right: 50px;
+}
+.home-img{
+  margin-right: 100%;
+}
+.home-h1 {
+    font-family: 'Encode Sans', sans-s;
+    font-size: 30px;
+    color: white;
+    background-color: transparent;
+}
+
+.home-p {
+    font-family: 'Encode Sans', sans-s;
+    font-size: 18px;
+    background-color: transparent;
+    color: white;
+}
+
+.firstdiv{
+  height: 120vh;
+  background-color: #AAD7D9;
+  margin: 0;
+}
+.mountain{
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top:-10%;
+}
+
+.cloud1{
+  margin-left: -60%;
+  position:relative;
+}
+
+  .cloud2{
+    margin-top: -200px;
+    margin-right: -60%;
+  }
+
+.cloud3{
+  margin-top: -250px;
+  margin-left: -60%;
+}
+
+.cloud4{
+  margin-right: 60%;
+  position:relative;
+
+}
+.pro-img{
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 20%;
+}
+
+.profile{
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  color: green;
+}
+.prf-p{
+  font-size: 20px;
+  font-family: 'Genos', sans-serif;
+
+}
+.skills-h2{
+  color: aqua;
+}
+.skill-row{
+  display: flex;
+  flex-direction: row;
+}
+.skill-sub{
+    border: rgb(90, 108, 54) solid 2px;
+    margin: 20px;
+    padding: 20px;
+    width: 500px;
+  }
+.skills-h3{
+  color: aqua;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+.skills-p{
+  font-size: 20px;
+  background-color: transparent;
+    font-family: 'Genos', sans-serif;
+    color: white;
+}
+.skill-img{
+width: 150px;
+}
+.cont-h2{
+  color: aqua;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+.cont-h3{
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+.cont-p{
+  background-color: transparent;
+    font-family: 'Genos', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.btn{
+  color: aqua;
+}
+.button-img{
+  background-color: transparent;
+  color: white;
+  height: 20px;
+}
